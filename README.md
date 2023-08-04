@@ -77,6 +77,12 @@ cat /etc/group
 ```bash
 passwd mssql
 ```
+### To change the password for the "sa" (System Administrator) user in Microsoft SQL Server
+```bash
+sqlcmd -S localhost -U SA -P '<your_password>'
+ALTER LOGIN sa WITH PASSWORD = '<your_new_password>';
+GO
+```
 
 If successful, you should get a command prompt: 1>.
 
