@@ -1,14 +1,5 @@
 # mssql-server-2019
-# Setup Microsoft SQL Server on Ubuntu 20.04
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨  
-YouTube Setup Microsoft SQL Server on Ubuntu 20.04
-🔗 <https://youtu.be/x6pYoWwtVAY>  
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨  
-SUPPORT MY WORK - Everything Helps Thanks 
-YouTube 🔗 <https://YouTube.GetMeTheGeek.com>  
-Buy Me a Coffee ☕ <https://www.buymeacoffee.com/getmethegeek>  
-Hire US 🔗 <https://getmethegeek.com>  
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
 
 ## Update Ubuntu
 
