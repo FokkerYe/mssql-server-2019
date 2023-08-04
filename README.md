@@ -70,7 +70,7 @@ sqlcmd -S localhost -U SA -P 'Password'
 ```bash
 sqlcmd -S localhost -U SA -P 'Aungyekyaw' -Q "SELECT @@VERSION"
 ```
-### MSSQL database Password give
+### you want to change the password for the "mssql" user.
 ```bash
 cat /etc/group
 ```
