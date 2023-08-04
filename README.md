@@ -70,6 +70,13 @@ sqlcmd -S localhost -U SA -P 'Password'
 ```bash
 sqlcmd -S localhost -U SA -P 'Aungyekyaw' -Q "SELECT @@VERSION"
 ```
+### MSSQL database Password give
+```bash
+cat /etc/group
+```
+```bash
+passwd mssql
+```
 
 If successful, you should get a command prompt: 1>.
 
