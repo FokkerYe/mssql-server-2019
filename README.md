@@ -76,6 +76,10 @@ source ~/.bashrc
 ```bash
 sqlcmd -S localhost -U SA -P 'Password'
 ```
+```bash
+sqlcmd -S localhost -U SA -P 'Aungyekyaw' -Q "SELECT @@VERSION"
+```
+
 If successful, you should get a command prompt: 1>.
 
 ### Attaching existing SQL Server Database
